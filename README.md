@@ -21,8 +21,7 @@ A *robust task tracking system* with full *CRUD (Create, Read, Update, Delete)* 
 
 🔗 Live Demo
 
-Try the App (Replace with actual hosted link.)
-
+Try the App https://ybhavanareddy.github.io/Todo-task-App/
 👨‍💻 Contributing
 
 Feel free to contribute by reporting issues or suggesting improvements!
